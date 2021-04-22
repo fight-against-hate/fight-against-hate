@@ -89,17 +89,19 @@ You have tremendous power to help your people.  If you help them now, _they will
 
 OK, you have shown support, done your duty to your employer and customers, and helped your co-workers.  Well done!
 
-You might be a bit tired now:  this could be a good time to find some friends who can help you breathe.  Or maybe you find yourself fired up and ready to continue for the long haul, but in a more structured fashion.  Either way, let's connect you to some people who have solid experience in this:
+You might be a bit tired now:  this could be a good time to find some friends who can help you breathe.  Or maybe you find yourself fired up and ready to continue for the long haul, but in a more structured fashion.  Either way, let's connect you to some people who have solid experience in this.
+
+I have already mentioned [Human Rights Campaign](https://hrc.org), [ACLU](https://aclu.org), [Lambda Legal](https://www.lambdalegal.org/), and [National Center For Transgender Equality](https://transequality.org/).  They are all awesome.  But here are a couple more that might be great for you too:
 
 * Find real people to talk to through [PFLAG](https://pflag.org/).  They likely have a [chapter near you](https://pflag.org/find-a-chapter), but given COVID they will be meeting remotely right now which might be even better for you.  The [newsletter](https://pflag.salsalabs.org/signup/index.html) is good, and if you want that structured fight check out [Advocacy 101.](https://pflag.org/advocacy-101)
 
-* If you've got some talent in media, [GLAAD](https://www.glaad.org/) may be able to put you to good use.  I know there are a ton of awesome writers, poets, performers, and artists around here.  Might be something to think about.
+* If you've got some talent in media, you may find [GLAAD](https://www.glaad.org/) to be an awesome teacher and outlet.  I know there are a ton of energetic writers, poets, performers, and artists around here.  Give it some thought.
 
 We are nearing the end of _this_ plan.  Now I invite you to help us all make an even better plan.
 
 #Final Step: Make This Better
 
-I am just a volunteer in Pride who just happened to be stuck in the hot seat when this national crisis erupted.  But just like all of you would for yours, I will defend everyone that I joyfully call my family.
+I am just a volunteer in Pride who happened to be stuck in the hot seat when this national crisis erupted.  But just as all of you would for yours, I will defend everyone that I joyfully call my family.
 
 I missed out on a ton of stuff we need.  [Would you be able to fill us in?](https://github.com/fight-against-hate/fight-against-hate)
 
