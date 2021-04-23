@@ -38,7 +38,7 @@ If you have more money, donate to any of these:
 * [Lambda Legal](https://www.lambdalegal.org/) - [Donate](https://www.lambdalegal.org/donate)
 
 * [NCTE](https://transequality.org/) - Click the donate button
- 
+
 Your money will go where it can be very effective in the legal battles to defend us.
 
 Alright, you've done a great job as an individual, now take it to work!
@@ -144,3 +144,5 @@ The day will come when you look around and _everyone_ you know has a trans frien
 "Live and let live," that's what your friends will say.
 
 And one day, you will agree with them.  And then _all_ of us -- even you -- will win.
+
+💗
