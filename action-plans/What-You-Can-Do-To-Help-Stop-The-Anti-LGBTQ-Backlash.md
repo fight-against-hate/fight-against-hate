@@ -121,7 +121,7 @@ Collectively, we all have everything we need to win this struggle.  And I know, 
 
 #See Also
 
-* [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - This call from Human Rights Campaign for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites" was recently published as a full-page ad in the New York Times.  It makes a solid case that _this time it really is different._
+* [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - This call from the Human Rights Campaign for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites" was recently published as a full-page ad in the New York Times.  It makes a solid case that _this time it really is different._
 
 * [How You, Personally, Can Fight the Anti-Trans Bills Surging Across the U.S.](https://www.vice.com/en/article/bvzge5/how-to-fight-anti-trans-bills-legislation-united-states-activism) - Another action plan, focused more directly on the immediate state-level fights against these laws.  If you live in one of these states, be sure to check this one out.  [PFLAG's tool to contact your legislator](https://pflag.org/protecttranskids) is one quick way to find out if you are at risk, while simultaneously putting in your voice to protest.
 
