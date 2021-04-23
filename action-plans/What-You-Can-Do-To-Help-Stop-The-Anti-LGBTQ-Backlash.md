@@ -107,7 +107,7 @@ I missed out on a ton of stuff we need.  [Would you be able to fill us in?](http
 
 Everyone is welcome, but there is one rule above all: **We fight only for acceptance and the right to live in peace.** We will not support anything that could lead to physical harm to someone else.
 
-[The vast majority of America does not want these bills.](https://www.pbs.org/newshour/politics/new-poll-shows-americans-overwhelmingly-oppose-anti-transgender-laws)  Sadly, this is _all_ just a [few rich assholes](https://www.outfrontmagazine.com/a-hate-group-is-reportedly-fighting-to-pass-anti-trans-bills/) headquartered in Arizona trying to break the entire damn country.
+[The vast majority of America does not want these bills.](https://www.pbs.org/newshour/politics/new-poll-shows-americans-overwhelmingly-oppose-anti-transgender-laws)  Sadly, this is _all_ just a [few rich buttheads](https://www.outfrontmagazine.com/a-hate-group-is-reportedly-fighting-to-pass-anti-trans-bills/) trying to break the entire country.
 
 Anyway, here are some things you could help on:
 
@@ -117,7 +117,7 @@ Anyway, here are some things you could help on:
 
 * What other tools are out there that we can use in our defense?  Who else hasn't been paying attention that should be?  Comment down here, or [over here.](https://github.com/fight-against-hate/fight-against-hate/discussions/4)
 
-Collectively, we all have everything we need to win this struggle.  And I know, I _absolutely_ know, that we will win out.
+Collectively, we have everything we need to win this struggle.  And I know, I _absolutely_ know, that we will win out.
 
 #See Also
 
