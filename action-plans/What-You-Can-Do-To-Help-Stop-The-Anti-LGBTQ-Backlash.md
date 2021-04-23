@@ -105,7 +105,7 @@ I am just a volunteer in Pride who happened to be stuck in the hot seat when thi
 
 I missed out on a ton of stuff we need.  [Would you be able to fill us in?](https://github.com/fight-against-hate/fight-against-hate)
 
-Everyone is welcome, but there is one rule above all: **We fight only for acceptance and the right to live in peace.** I will not support anything that could lead to physical harm for someone else.  (Even though some are clearly trying to harm all of us...)
+Everyone is welcome, but there is one rule above all: **We fight only for acceptance and the right to live in peace.** We will not support anything that could lead to physical harm to someone else.
 
 [The vast majority of America does not want these bills.](https://www.pbs.org/newshour/politics/new-poll-shows-americans-overwhelmingly-oppose-anti-transgender-laws)  Sadly, this is _all_ just a [few rich assholes](https://www.outfrontmagazine.com/a-hate-group-is-reportedly-fighting-to-pass-anti-trans-bills/) headquartered in Arizona trying to break the entire damn country.
 
@@ -121,7 +121,7 @@ Collectively, we all have everything we need to win this struggle.  And I know, 
 
 #See Also
 
-* [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - The Human Rights Campaign's call for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites."  A solid case that _this time it really is different._
+* [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - This call from Human Rights Campaign for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites" was recently published as a full-page ad in the New York Times.  It makes a solid case that _this time it really is different._
 
 * [How You, Personally, Can Fight the Anti-Trans Bills Surging Across the U.S.](https://www.vice.com/en/article/bvzge5/how-to-fight-anti-trans-bills-legislation-united-states-activism) - Another action plan, focused more directly on the immediate state-level fights against these laws.  If you live in one of these states, be sure to check this one out.  [PFLAG's tool to contact your legislator](https://pflag.org/protecttranskids) is one quick way to find out if you are at risk, while simultaneously putting in your voice to protest.
 
