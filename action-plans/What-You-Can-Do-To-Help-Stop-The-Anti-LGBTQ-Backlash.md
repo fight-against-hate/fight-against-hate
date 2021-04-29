@@ -71,7 +71,7 @@ Hello business owner!  You are in a hard place: you have employees and/or depend
 
 * If a vulnerable employee can telecommute for you, let them do that.  You've probably already been doing it because of COVID, right?  Give them the freedom to move to safety, so that they don't have to resign in order to protect their family.
 
-* If you have sites in the states that offer comprehensive legal protection for LGBTQ -- namely CA, CT, DC, DE, IA, IL, MA, MD, ME, MN, NH, NJ, NM, NV, NY, OC, OR, RI, VA, VT, WA -- then preferentially invest in those states, and offer transfers to vulnerable employees into those states.
+* If you have sites in the states that offer comprehensive legal protection for LGBTQ -- namely CA, CO, CT, DC, DE, IA, IL, MA, MD, ME, MN, NH, NJ, NM, NV, NY, OR, RI, VA, VT, WA -- then preferentially invest in those states, and offer transfers to vulnerable employees into those states.
 
 * If you don't have it already, get some LGBTQ training videos into your system.  [Here is a great list](https://www.opensesame.com/lists/detail/665010) of ready-made videos available from OpenSesame if you need something a bit more polished-looking than YouTube.  If you feel that interactive classes would be a better fit than passive videos, then check out [PFLAG's training catalog.](https://www.straightforequality.org/workplace)  _Make this training mandatory._
 
