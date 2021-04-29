@@ -19,7 +19,7 @@ In 2021, most of the states listed above began to pass laws to:
 * Criminalize or otherwise ban medical care for transgender people.
   Many of these states sought to define such care as felony child
   abuse, with the threat of breaking up families that supported their
-  trans children.  Others prohibited health care providers from
+  trans children.  Others prohibited health care insurance plans from
   covering care, even to adults.
 
 * Explicitly permit discrimination against all LGBTQ in medical
@@ -46,6 +46,16 @@ want to defend themselves and their loved ones using resources
 commonly available.  Becoming a "difficult" target who fights back
 will often get the bullies to move on; or gain time for a child to
 grow into a legal adult with recognized rights.
+
+For those able to move, see [this
+guide](https://github.com/fight-against-hate/fight-against-hate/blob/master/manuals/lgbtq-moving-guide.md)
+to get started.
+
+Conversely, those who wish to fight against the passage of new
+discriminatory laws can reference [this action
+plan.](https://github.com/fight-against-hate/fight-against-hate/blob/master/action-plans/What-You-Can-Do-To-Help-Stop-The-Anti-LGBTQ-Backlash.md)
+
+
 
 Scenarios
 ---------
@@ -100,4 +110,3 @@ Conclusion
 
 Additional Reading
 ------------------
-
