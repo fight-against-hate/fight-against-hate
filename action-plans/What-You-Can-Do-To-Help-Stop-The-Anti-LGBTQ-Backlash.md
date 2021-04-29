@@ -95,6 +95,8 @@ I have already mentioned [Human Rights Campaign](https://hrc.org), [ACLU](https:
 
 * If you've got some talent in media, you may find [GLAAD](https://www.glaad.org/) to be an awesome teacher and outlet.  I know there are a ton of energetic writers, poets, performers, and artists around here.  Give it some thought.
 
+* Volunteer at your local LGBTQ community center and get involved with community groups. It is a great opportunity to not only give back, but also meet some amazing people.
+
 We are nearing the end of _this_ plan.  Now I invite you to make an even better plan.
 
 #Final Step: Make This Better
