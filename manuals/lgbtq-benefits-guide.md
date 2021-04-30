@@ -8,11 +8,11 @@ This guide is intended primarily to support LGBTQ people living in
 unaccepting areas of the USA that do not offer comprehensive legal
 protections, mostly the "red" states but also a few others, namely:
 
-Alabama, Alaska, Arizona, Arkansas, Florida, Georgia, Hawaii, Idaho,
-Indiana, Kansas, Kentucky, Louisiana, Michigan, Mississippi, Missouri,
-Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma,
-Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah,
-West Virginia, Wisconsin, Wyoming
+    Alabama, Alaska, Arizona, Arkansas, Florida, Georgia, Hawaii,
+    Idaho, Indiana, Kansas, Kentucky, Louisiana, Michigan,
+    Mississippi, Missouri, Montana, Nebraska, North Carolina, North
+    Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South
+    Dakota, Tennessee, Texas, Utah, West Virginia, Wisconsin, Wyoming
 
 In 2021, most of the states listed above began to pass laws to:
 
