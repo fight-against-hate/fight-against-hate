@@ -51,7 +51,7 @@ Before you start down this list, see if your company has a Pride or LGBTQ employ
 
 1. Establish that this is not about politics or charity, this is truly a national-scale _human rights crisis._ They are talking about breaking up families and examining women's genitals!  People are [seriously leaving their home states in search of safety for their families.](https://www.businessinsider.com/arkansas-3-anti-trans-bills-in-3-weeks-triggers-exodus-2021-4)  The effects of these laws will touch _every_ family with LGBTQ in the country.
 
-2. This is widespread and urgent.  You have a _duty_ to your employer to notify them of this issue, since it will impact their customers, their suppliers, and them.  Send them [this letter, currently signed by ~~70~~ ~~74~~ 84 major companies,](https://www.hrc.org/resources/business-statement-on-anti-lgbtq-state-legislation) that clearly spells out how these laws will harm their employees, their competitiveness, and the economy.  Hurting LGBTQ is bad for business.
+2. This is widespread and urgent.  You have a _duty_ to your employer to notify them of this issue, since it will impact their customers, their suppliers, and them.  Send them [this letter, currently signed by ~~70~~ ~~84~~ 95 major companies,](https://www.hrc.org/resources/business-statement-on-anti-lgbtq-state-legislation) that clearly spells out how these laws will harm their employees, their competitiveness, and the economy.  Hurting LGBTQ is bad for business.
 
 3. Ask if your employer can sign the letter.  Point out some of the names on it: IBM, Intel, Microsoft, AT&T, Verizon, Wells Fargo, Dow, Bayer, Union Pacific, American Airlines, Pfizer.  These aren't "socially activist" companies:  8 of the 30 Dow Jones Industrial Average companies are here.  _This is about business._ It turns out that disrupting the lives of up to 5% of a state's workforce might not be the best environment for making money.
 
@@ -120,6 +120,8 @@ Collectively, we have everything we need to win this struggle.  And I know, I _a
 #See Also
 
 * [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - This call from the Human Rights Campaign for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites" was recently published as a full-page ad in the New York Times.  It makes a solid case that _this time it really is different._
+
+* [Business Coalition for the Equality Act](https://www.hrc.org/resources/business-coalition-for-equality) - A coalition of **420 member companies** publicly supporting passage of the Equality Act which would invalidate many of these bills permanently. These companies represent 14.6 million USA employees, with operations in all 50 states, headquarters spanning 33 states, and a combined $6.8 trillion in revenue.
 
 * [How You, Personally, Can Fight the Anti-Trans Bills Surging Across the U.S.](https://www.vice.com/en/article/bvzge5/how-to-fight-anti-trans-bills-legislation-united-states-activism) - Another action plan, focused more directly on the immediate state-level fights against these laws.  If you live in one of these states, be sure to check this one out.  [PFLAG's tool to contact your legislator](https://pflag.org/protecttranskids) is one quick way to find out if you are at risk, while simultaneously putting in your voice to protest.
 
