@@ -46,7 +46,7 @@ benchmark for comparison.  In 2021, [767
 companies](https://www.hrc.org/resources/best-places-to-work-for-lgbtq-equality-2021)
 earned the highest score of 100.  A good rule of thumb for LGBTQ job
 seekers is to apply at employers with a score of **85 or higher**.  As
-of 2021, 986 companies meet that criteria. [here is the list, sorted
+of 2021, 986 companies meet that criteria. [Here is the list, sorted
 by 2021 CEI
 score.](https://github.com/fight-against-hate/fight-against-hate/blob/master/data/CEI-2021-revised-030121_sorted.csv)
 The list sorted by name [is
