@@ -8,7 +8,7 @@ Action plans:
 
 References:
 
-* [Reddit user _cloud1's post "I wrote an evidence-based trans rights copypasta. I'll add to it over time, but enjoy your validation you amazing guys, gals and NB pals"](https://github.com/fight-against-hate/fight-against-hate/blob/main/references/cloud1_evidence.md)
+* [Reddit user _cloud1's post "I wrote an evidence-based trans rights copypasta. I'll add to it over time, but enjoy your validation you amazing guys, gals and NB pals"](https://github.com/fight-against-hate/fight-against-hate/blob/main/references/cloud1_evidence_based.md)
 
 * [Reddit user tgjer's post "Citations on the congenital, neurological basis of gender identity, which typically corresponds with the rest of one's anatomy but not always"](https://github.com/fight-against-hate/fight-against-hate/blob/main/references/tgjer_citations.md)
 
