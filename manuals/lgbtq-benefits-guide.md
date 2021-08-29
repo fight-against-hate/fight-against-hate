@@ -20,7 +20,7 @@ In 2021, most of the states listed above began to pass laws to:
   Many of these states sought to define such care as felony child
   abuse, with the threat of breaking up families that supported their
   trans children.  Others prohibited health care insurance plans from
-  covering care, even to adults.
+  covering care, even for adults.
 
 * Explicitly permit discrimination against all LGBTQ in medical
   services via "religious conscience" bills.
@@ -41,11 +41,12 @@ jurisdiction does not mean someone is entirely defenseless.
 Discriminatory laws tend to be enforced unevenly, used more as a
 weapon against specific people than an effective whole-state ban.
 
-This guide is for those people who have good reasons to stay put, but
+This guide is for those people who have their reasons to stay put, but
 want to defend themselves and their loved ones using resources
-commonly available.  Becoming a "difficult" target who fights back
-will often get the bullies to move on; or gain time for a child to
-grow into a legal adult with recognized rights.
+commonly available through employee benefits.  Becoming a "difficult"
+target who fights back can sometimes get the bullies to move on, or
+gain time for a child to grow into a legal adult with recognized
+rights.
 
 For those able to move, see [this
 guide](https://github.com/fight-against-hate/fight-against-hate/blob/master/manuals/lgbtq-moving-guide.md)
@@ -53,7 +54,8 @@ to get started.
 
 Conversely, those who wish to fight against the passage of new
 discriminatory laws can reference [this action
-plan.](https://github.com/fight-against-hate/fight-against-hate/blob/master/action-plans/What-You-Can-Do-To-Help-Stop-The-Anti-LGBTQ-Backlash.md)
+plan](https://github.com/fight-against-hate/fight-against-hate/blob/master/action-plans/What-You-Can-Do-To-Help-Stop-The-Anti-LGBTQ-Backlash.md)
+for some ideas.
 
 
 
@@ -66,9 +68,22 @@ Scenarios
 
 
 
-Legal Plan
-----------
 
+
+Legal Support
+-------------
+
+NOLO book
+
+MetLife Legal Plan - how to use
+
+
+
+
+Medical Support
+---------------
+
+Southern Trans Medicine resources
 
 
 
