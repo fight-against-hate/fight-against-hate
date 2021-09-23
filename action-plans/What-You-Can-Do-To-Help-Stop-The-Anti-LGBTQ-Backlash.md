@@ -23,13 +23,9 @@ What if they want to discuss the science?  Well, if they really want to get into
 
 OK, so the laws are awful and widespread, and completely against the real science for trans people.  What's next?
 
-#Step 2: Show Your Support
+#Step 2: If You Have Money
 
-Join the [Count Me In](https://www.hrc.org/campaigns/count-me-in) campaign from the Human Rights Campaign.  Get banners for your social media, get your free sticker, sign the pledge, add your name to the list going to your own state legislators.  This stuff is free and quick!  If you have a little money, then buy a shirt or mask, or pay for books for a library.
-
-If you have more money, donate to any of these:
-
-* [Human Rights Campaign](https://hrc.org) - [Donate](https://hrc.org/donate)
+If you have money to spare, consider donating to any of these:
 
 * [ACLU](https://aclu.org) - [Donate](https://aclu.org/donate)
 
@@ -37,7 +33,7 @@ If you have more money, donate to any of these:
 
 * [National Center For Transgender Equality](https://transequality.org/) - Click the donate button
 
-Your money will go where it can be very effective in the legal battles to defend us.
+That money will go where it can be very effective in the legal battles to defend us.
 
 Alright, you've done a great job as an individual, now take it to work!
 
@@ -51,7 +47,7 @@ Before you start down this list, see if your company has a Pride or LGBTQ employ
 
 1. Establish that this is not about politics or charity, this is truly a national-scale _human rights crisis._ They are talking about breaking up families and examining women's genitals!  People are [seriously leaving their home states in search of safety for their families.](https://www.businessinsider.com/arkansas-3-anti-trans-bills-in-3-weeks-triggers-exodus-2021-4)  The effects of these laws will touch _every_ family with LGBTQ in the country.
 
-2. This is widespread and urgent.  You have a _duty_ to your employer to notify them of this issue, since it will impact their customers, their suppliers, and them.  Send them [this letter, currently signed by ~~70~~ ~~84~~ 95 major companies,](https://www.hrc.org/resources/business-statement-on-anti-lgbtq-state-legislation) that clearly spells out how these laws will harm their employees, their competitiveness, and the economy.  Hurting LGBTQ is bad for business.
+2. This is widespread and urgent.  You have a _duty_ to your employer to notify them of this issue, since it will impact their customers, their suppliers, and them.  Send them [this letter, currently signed by 152 major companies,](https://www.hrc.org/resources/business-statement-on-anti-lgbtq-state-legislation) that clearly spells out how these laws will harm their employees, their competitiveness, and the economy.  Hurting LGBTQ is bad for business.
 
 3. Ask if your employer can sign the letter.  Point out some of the names on it: IBM, Intel, Microsoft, AT&T, Verizon, Wells Fargo, Dow, Bayer, Union Pacific, American Airlines, Pfizer.  These aren't "socially activist" companies:  8 of the 30 Dow Jones Industrial Average companies are here.  _This is about business._ It turns out that disrupting the lives of up to 5% of a state's workforce might not be the best environment for making money.
 
@@ -85,11 +81,11 @@ You have tremendous power to help your people.  Please help them now, so that th
 
 #Step 5: Join Some Friends
 
-OK, you have shown support, done your duty to your employer and customers, and helped your co-workers.  Well done!
+OK, you have put up money if you had it (and it's OK if you didn't!), done your duty to your employer and customers, and helped your co-workers.  Well done!
 
 You might be a bit tired now:  this could be a good time to find some friends who can help you breathe.  Or maybe you find yourself fired up and ready to continue for the long haul, but need to do so in a more structured fashion.  Either way, let's connect you to some people who have solid experience in this.
 
-I have already mentioned [Human Rights Campaign](https://hrc.org), [ACLU](https://aclu.org), [Lambda Legal](https://www.lambdalegal.org/), and [National Center For Transgender Equality](https://transequality.org/).  They are all awesome.  But here are a couple more that might be great for you:
+I have already mentioned [ACLU](https://aclu.org), [Lambda Legal](https://www.lambdalegal.org/), and [National Center For Transgender Equality](https://transequality.org/).  They are all awesome.  But here are a couple more that might be great for you:
 
 * Find real people to talk to through [PFLAG](https://pflag.org/).  They likely have a [chapter near you](https://pflag.org/find-a-chapter), but given COVID they could be meeting remotely right now -- which might be even better for you.  The [newsletter](https://pflag.salsalabs.org/signup/index.html) is good, and if you want that structured fight then check out [Advocacy 101.](https://pflag.org/advocacy-101)
 
@@ -118,10 +114,6 @@ Anyway, here are some things you could help on:
 Collectively, we have everything we need to win this struggle.  And I know, I _absolutely_ know, that we will win out.
 
 #See Also
-
-* [What Do We Need from Corporate America?](https://www.hrc.org/news/what-do-we-need-from-corporate-america) - This call from the Human Rights Campaign for corporate leaders to "stand by the principles and values they espouse in their administrative manuals and on their websites" was recently published as a full-page ad in the New York Times.  It makes a solid case that _this time it really is different._
-
-* [Business Coalition for the Equality Act](https://www.hrc.org/resources/business-coalition-for-equality) - A coalition of **420 member companies** publicly supporting passage of the Equality Act which would invalidate many of these bills permanently. These companies represent 14.6 million USA employees, with operations in all 50 states, headquarters spanning 33 states, and a combined $6.8 trillion in revenue.
 
 * [How You, Personally, Can Fight the Anti-Trans Bills Surging Across the U.S.](https://www.vice.com/en/article/bvzge5/how-to-fight-anti-trans-bills-legislation-united-states-activism) - Another action plan, focused more directly on the immediate state-level fights against these laws.  If you live in one of these states, be sure to check this one out.  [PFLAG's tool to contact your legislator](https://pflag.org/protecttranskids) is one quick way to find out if you are at risk, while simultaneously putting in your voice to protest.
 
